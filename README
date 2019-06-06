@@ -1,7 +1,9 @@
 Présentation
 Ce projet a été conçu dans le cadre des PPE durant la 2ème année du BTS SIO à Sciences-U Lyon.
+Le besoin:
 
-Il a pour but la modification d'une application déjà existante de gestion des frais de déplacement, de restauration et d'hébergement générés par l'activité de visite médicale de la société GSB.
+Lors des déplacements des visiteurs médicaux, des frais sont engendrés et avancés par ces derniers (hôtels, repas, frais kilométriques, location de salles de conférence, …) puis défrayés ultérieurement par la comptabilité du groupe après contrôle. Le système de remboursement de ces frais, à ce jour, se fait manuellement par l’établissement d’une demande papier ; les visiteurs remplissent mensuellement une fiche de frais qu’ils renvoient au service comptable.
 
-L'application doit permettre d'établir une gestion plus précise et uniforme entre les entités du laboratoire. Elle devra permettre aux visiteurs d'inscrire leurs dépenses, de visualiser la prise en charge des remboursements (enregistré, validé, remboursé) (voir les modifications souhaitées dans le cahier des charges).
+Le groupe, toujours dans un souci d’optimiser le suivi de l’activité de visites médicales, souhaite à présent moderniser ce processus de traitement des frais en l’informatisant.
 
+A ce titre, afin de gérer la saisie et le remboursement des frais avancés par les visiteurs médicaux, une application web doit être développée. Elle sera accessible, après authentification, aux visiteurs et personnels du service comptable de l’entreprise. Les premiers pour enregistrer les frais engagés et suivre leurs remboursements, les seconds pour suivre, contrôler et rembourser les frais aux visiteurs. La gestion des frais s’organise mensuellement et est gérée distinctement pour chaque visiteur.
